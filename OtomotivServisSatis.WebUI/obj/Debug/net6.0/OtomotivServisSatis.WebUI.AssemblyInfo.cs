@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OtomotivServisSatis.WebUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efef4a5dd8331c3ab9e240adf3ab0ad3598dc856")]
 [assembly: System.Reflection.AssemblyProductAttribute("OtomotivServisSatis.WebUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OtomotivServisSatis.WebUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
