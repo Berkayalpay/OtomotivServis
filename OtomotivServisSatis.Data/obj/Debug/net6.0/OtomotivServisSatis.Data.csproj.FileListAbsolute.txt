@@ -1,0 +1,17 @@
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Data\bin\Debug\net6.0\OtomotivServisSatis.Data.deps.json
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Data\bin\Debug\net6.0\OtomotivServisSatis.Data.runtimeconfig.json
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Data\bin\Debug\net6.0\OtomotivServisSatis.Data.dll
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Data\bin\Debug\net6.0\OtomotivServisSatis.Data.pdb
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Data\bin\Debug\net6.0\OtomotivServisSatis.Entities.dll
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Data\bin\Debug\net6.0\OtomotivServisSatis.Entities.pdb
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Data\obj\Debug\net6.0\OtomotivServisSatis.Data.csproj.AssemblyReference.cache
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Data\obj\Debug\net6.0\OtomotivServisSatis.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Data\obj\Debug\net6.0\OtomotivServisSatis.Data.AssemblyInfoInputs.cache
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Data\obj\Debug\net6.0\OtomotivServisSatis.Data.AssemblyInfo.cs
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Data\obj\Debug\net6.0\OtomotivServisSatis.Data.csproj.CoreCompileInputs.cache
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Data\obj\Debug\net6.0\Otomotiv.B73383A8.Up2Date
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Data\obj\Debug\net6.0\OtomotivServisSatis.Data.dll
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Data\obj\Debug\net6.0\refint\OtomotivServisSatis.Data.dll
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Data\obj\Debug\net6.0\OtomotivServisSatis.Data.pdb
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Data\obj\Debug\net6.0\OtomotivServisSatis.Data.genruntimeconfig.cache
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Data\obj\Debug\net6.0\ref\OtomotivServisSatis.Data.dll

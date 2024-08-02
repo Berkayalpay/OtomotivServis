@@ -1,0 +1,11 @@
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Entities\bin\Debug\net6.0\OtomotivServisSatis.Entities.deps.json
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Entities\bin\Debug\net6.0\OtomotivServisSatis.Entities.dll
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Entities\bin\Debug\net6.0\OtomotivServisSatis.Entities.pdb
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Entities\obj\Debug\net6.0\OtomotivServisSatis.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Entities\obj\Debug\net6.0\OtomotivServisSatis.Entities.AssemblyInfoInputs.cache
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Entities\obj\Debug\net6.0\OtomotivServisSatis.Entities.AssemblyInfo.cs
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Entities\obj\Debug\net6.0\OtomotivServisSatis.Entities.csproj.CoreCompileInputs.cache
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Entities\obj\Debug\net6.0\OtomotivServisSatis.Entities.dll
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Entities\obj\Debug\net6.0\refint\OtomotivServisSatis.Entities.dll
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Entities\obj\Debug\net6.0\OtomotivServisSatis.Entities.pdb
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Entities\obj\Debug\net6.0\ref\OtomotivServisSatis.Entities.dll

@@ -1,0 +1,17 @@
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Service\bin\Debug\net6.0\OtomotivServisSatis.Service.deps.json
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Service\bin\Debug\net6.0\OtomotivServisSatis.Service.dll
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Service\bin\Debug\net6.0\OtomotivServisSatis.Service.pdb
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Service\obj\Debug\net6.0\OtomotivServisSatis.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Service\obj\Debug\net6.0\OtomotivServisSatis.Service.AssemblyInfoInputs.cache
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Service\obj\Debug\net6.0\OtomotivServisSatis.Service.AssemblyInfo.cs
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Service\obj\Debug\net6.0\OtomotivServisSatis.Service.csproj.CoreCompileInputs.cache
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Service\obj\Debug\net6.0\OtomotivServisSatis.Service.dll
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Service\obj\Debug\net6.0\refint\OtomotivServisSatis.Service.dll
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Service\obj\Debug\net6.0\OtomotivServisSatis.Service.pdb
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Service\obj\Debug\net6.0\ref\OtomotivServisSatis.Service.dll
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Service\bin\Debug\net6.0\OtomotivServisSatis.Data.dll
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Service\bin\Debug\net6.0\OtomotivServisSatis.Entities.dll
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Service\bin\Debug\net6.0\OtomotivServisSatis.Data.pdb
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Service\bin\Debug\net6.0\OtomotivServisSatis.Entities.pdb
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Service\obj\Debug\net6.0\OtomotivServisSatis.Service.csproj.AssemblyReference.cache
+C:\Users\berka\source\projereposu\OtomotivServisSatis\OtomotivServisSatis.Service\obj\Debug\net6.0\Otomotiv.6672DFA9.Up2Date
