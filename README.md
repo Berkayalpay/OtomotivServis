@@ -8,10 +8,15 @@ Bu projeyi, Otomotiv Servis ve Satış işlemlerini yönetmek amacıyla gelişti
 
 - **Admin Sayfası:** Admin kullanıcıların sisteme araç ekleyip, güncelleyebileceği ve silebileceği bir yönetim paneli.
 - **Araç Görüntüleme ve Bilgi Alma:** Kullanıcıların mevcut araçları görüntüleyip detaylı bilgi alabileceği sayfalar.
-- 
+
 - ## Kullanılan Teknolojiler
   
 - **Backend:** ASP.NET Core MVC, C#
 - **Frontend:** HTML, CSS, JavaScript, jQuery, Bootstrap
 - **Veritabanı:** SQL Server, Entity Framework Core
 - **Diğer:** .NET 7, Katmanlı Mimari, Repository Pattern
+
+
+## Contact
+
+If you have any questions or feedback, please contact me through GitHub.
